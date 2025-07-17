@@ -1,0 +1,11 @@
+{
+  "mix_ratio": 0.2,
+  "epochs": 200,
+  "lr": 0.005,
+  "batch_size": 128,
+  "hidden_channels": 64,
+  "noise_level": 0.8,
+  "best_epoch": 10,
+  "early_stopped": true,
+  "timestamp": "2025-07-17T23:16:19.457024"
+}
